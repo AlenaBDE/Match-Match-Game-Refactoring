@@ -19,7 +19,7 @@
           <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/screens/start/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="731">
+                <state relative-caret-position="618">
                   <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
                 </state>
               </provider>
@@ -47,7 +47,7 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
+          <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/app.js">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="238">
@@ -55,6 +55,20 @@
                   <folding>
                     <element signature="e#28#73#0" expanded="true" />
                   </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/.gitignore">
+              <provider selected="true" editor-type-id="text-editor" />
+            </entry>
+          </file>
+          <file leaf-file-name="package-lock.json" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/package-lock.json">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="208">
+                  <caret line="1678" column="26" selection-start-line="1678" selection-start-column="26" selection-end-line="1678" selection-end-column="26" />
                 </state>
               </provider>
             </entry>
@@ -102,7 +116,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>getTime</find>
       <find>user</find>
       <find>defaultSec</find>
       <find>this.second</find>
@@ -132,11 +145,15 @@
       <find>div</find>
       <find>win</find>
       <find>info</find>
+      <find>url</find>
     </findStrings>
     <replaceStrings>
       <replace>second</replace>
       <replace>setForms(</replace>
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -149,7 +166,6 @@
         <option value="$PROJECT_DIR$/game/js/vocabulary.js" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/style.css" />
-        <option value="$PROJECT_DIR$/package-lock.json" />
         <option value="$PROJECT_DIR$/game/webpack.config.js" />
         <option value="$PROJECT_DIR$/game/js/app.js" />
         <option value="$PROJECT_DIR$/dist/bundle.js" />
@@ -192,6 +208,7 @@
         <option value="$PROJECT_DIR$/src/components/modal-dialog/registration/index.js" />
         <option value="$PROJECT_DIR$/src/components/modal-dialog/arifmetic/index.js" />
         <option value="$PROJECT_DIR$/src/components/modal-dialog/tasks/index.js" />
+        <option value="$PROJECT_DIR$/package-lock.json" />
       </list>
     </option>
   </component>
@@ -224,6 +241,7 @@
     <option name="width" value="1940" />
     <option name="height" value="1015" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -365,11 +383,12 @@
       <workItem from="1531337238550" duration="1118000" />
       <workItem from="1531338405141" duration="15000" />
       <workItem from="1538861753774" duration="600000" />
+      <workItem from="1538898466345" duration="396000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="336078000" />
+    <option name="totallyTimeSpent" value="336474000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -382,18 +401,17 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10748156" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32830626" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50474185" side_tool="true" weight="0.23856209" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32881355" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49525815" visible="true" weight="0.23747277" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -415,8 +433,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/game/index.html" />
-    <entry file="file://$PROJECT_DIR$/game/js/script.js" />
     <entry file="file://D:/WebPage/index.html" />
     <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript.js" />
     <entry file="file://$PROJECT_DIR$/game/js/user.js" />
@@ -586,8 +602,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/screens/start/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
+        <state relative-caret-position="618">
           <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="1678" column="26" selection-start-line="1678" selection-start-column="26" selection-end-line="1678" selection-end-column="26" />
         </state>
       </provider>
     </entry>
