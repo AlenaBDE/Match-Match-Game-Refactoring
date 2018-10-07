@@ -1,0 +1,27 @@
+.content-translate {
+    display: flex;
+    justify-content: space-between;
+    z-index: 99;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    background: #F5F5F5;
+}
+
+.content-translate span{
+    margin-top: 20px;
+    padding-left: 50px;
+}
+
+.content-translate input {
+    margin-top: 25px;
+    width: 150px;
+    margin-bottom: 25px;
+}
+
+.content-translate button {
+    width: 150px;
+    margin-top: 25px;
+    margin-right: 50px;
+    margin-bottom: 25px;
+}
+

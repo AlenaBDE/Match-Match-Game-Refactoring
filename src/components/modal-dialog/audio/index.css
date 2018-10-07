@@ -1,0 +1,41 @@
+.audio {
+    width: 500px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-left: -260px;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    background: #F5F5F5;
+}
+
+.audio-task {
+    display: flex;
+    justify-content: space-between;
+}
+
+.audio-task img {
+    margin-top: 20px;
+    padding-left: 50px;
+}
+
+.audio-task input {
+    margin-top: 25px;
+    width: 150px;
+    margin-bottom: 25px;
+}
+
+.audio-task button {
+    width: 150px;
+    margin-top: 25px;
+    margin-right: 50px;
+    margin-bottom: 25px;
+}
+
+.audio-info {
+    text-align: center;
+    color: #000000;
+    border-bottom: 1px solid #ccc;
+    background-color: #D8E6F3;
+}
+

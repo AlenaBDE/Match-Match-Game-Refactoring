@@ -1,0 +1,35 @@
+.win {
+width: 500px;
+position: absolute;
+left: 50%;
+top: 50%;
+margin-left: -260px;
+}
+
+.win button {
+display: inline-block;
+text-align: center;
+line-height: 20px;
+border: 2px solid black;
+border-radius: 5px;
+color: black;
+background-color: #9dc7e7;
+margin-left: 35px;
+}
+
+.win button:hover {
+cursor: pointer;
+color: #1775ff;
+text-decoration: none;
+}
+
+.win h2 {
+text-align: center;
+color: #000000;
+background-color: #D8E6F3;
+}
+
+.win input {
+margin-left: 10px;
+}
+

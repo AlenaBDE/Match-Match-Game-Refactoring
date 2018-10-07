@@ -1,0 +1,27 @@
+.information {
+    width: 500px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-left: -260px;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    background: #F5F5F5;
+}
+
+.information-text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+}
+
+.information h2 {
+    text-align: center;
+    color: #000000;
+    background-color: #D8E6F3;
+}
+
+.information span {
+
+}

@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="28c4442a-9784-4716-af0f-503266ab1519" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.356974">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/screens/start/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="731">
+                  <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/components/modal-dialog/registration/index.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="289">
+                  <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/components/modal-dialog/arifmetic/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="170">
+                  <caret line="10" column="23" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="23" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/app.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="238">
+                  <caret line="14" selection-start-line="14" selection-end-line="14" />
+                  <folding>
+                    <element signature="e#28#73#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/components/modal-dialog/registration/index.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="289">
+                  <caret line="17" selection-start-line="17" selection-end-line="17" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/components/modal-dialog/tasks/index.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="306">
+                  <caret line="20" column="52" selection-start-line="20" selection-start-column="52" selection-end-line="20" selection-end-column="52" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/components/modal-dialog/arifmetic/index.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="68">
+                  <caret line="4" column="57" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="57" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package_json" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>getTime</find>
+      <find>user</find>
+      <find>defaultSec</find>
+      <find>this.second</find>
+      <find>taskTimer</find>
+      <find>setFor</find>
+      <find>img</find>
+      <find>setForm(</find>
+      <find>timer</find>
+      <find>p</find>
+      <find>wel</find>
+      <find>star</find>
+      <find>Forms</find>
+      <find>arifmetic</find>
+      <find>form</find>
+      <find>modal</find>
+      <find>ari</find>
+      <find>body</find>
+      <find>modalTask</find>
+      <find>Timer</find>
+      <find>registration</find>
+      <find>localStorage</find>
+      <find>button_registration</find>
+      <find>choice</find>
+      <find>content-task</find>
+      <find>overlayM</find>
+      <find>visible</find>
+      <find>div</find>
+      <find>win</find>
+      <find>info</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>second</replace>
+      <replace>setForms(</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/js/script.js" />
+        <option value="$PROJECT_DIR$/js/common.js" />
+        <option value="$PROJECT_DIR$/js/vocabulary.js" />
+        <option value="$PROJECT_DIR$/js/user.js" />
+        <option value="$PROJECT_DIR$/js/monster.js" />
+        <option value="$PROJECT_DIR$/game/js/vocabulary.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/package-lock.json" />
+        <option value="$PROJECT_DIR$/game/webpack.config.js" />
+        <option value="$PROJECT_DIR$/game/js/app.js" />
+        <option value="$PROJECT_DIR$/dist/bundle.js" />
+        <option value="$PROJECT_DIR$/game/js/main.js" />
+        <option value="$PROJECT_DIR$/game/js/monster_name.js" />
+        <option value="$PROJECT_DIR$/game/js/timer.js" />
+        <option value="$PROJECT_DIR$/game/js/events.js" />
+        <option value="$PROJECT_DIR$/game/js/monster.js" />
+        <option value="$PROJECT_DIR$/game/windows/task.html" />
+        <option value="$PROJECT_DIR$/game/js/task2.html" />
+        <option value="$PROJECT_DIR$/game/windows/task2.html" />
+        <option value="$PROJECT_DIR$/game/windows/registration.html" />
+        <option value="$PROJECT_DIR$/game/js/common.js" />
+        <option value="$PROJECT_DIR$/game/index.html" />
+        <option value="$PROJECT_DIR$/game/js/script.js" />
+        <option value="$PROJECT_DIR$/game/windows/modal_task.html" />
+        <option value="$PROJECT_DIR$/game/styles/style.css" />
+        <option value="$PROJECT_DIR$/game/js/highscore.js" />
+        <option value="$PROJECT_DIR$/src/components/modal-dialog/reg/registration.css" />
+        <option value="$PROJECT_DIR$/src/components/modal-dialog/reg/registration.html" />
+        <option value="$PROJECT_DIR$/src/components/modal-dialog/registration/index.html" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/webpack.config.js" />
+        <option value="$PROJECT_DIR$/src/components/modal-dialog/tasks/tasks.js" />
+        <option value="$PROJECT_DIR$/src/components/modal-dialog/tasks/index.html" />
+        <option value="$PROJECT_DIR$/src/components/modal-dialog/tasks/index.css" />
+        <option value="$PROJECT_DIR$/src/components/modal-dialog/audio/index.js" />
+        <option value="$PROJECT_DIR$/src/screens/start/index.css" />
+        <option value="$PROJECT_DIR$/src/components/modal-dialog/audio/index.css" />
+        <option value="$PROJECT_DIR$/src/js/monster.js" />
+        <option value="$PROJECT_DIR$/src/components/modal-dialog/translate/index.js" />
+        <option value="$PROJECT_DIR$/src/components/modal-dialog/audio/index.html" />
+        <option value="$PROJECT_DIR$/src/components/modal-dialog/translate/index.css" />
+        <option value="$PROJECT_DIR$/src/components/modal-dialog/translate/index.html" />
+        <option value="$PROJECT_DIR$/src/components/modal-dialog/arifmetic/index.css" />
+        <option value="$PROJECT_DIR$/src/components/modal-dialog/arifmetic/index.html" />
+        <option value="$PROJECT_DIR$/src/screens/start/index.html" />
+        <option value="$PROJECT_DIR$/src/components/modal-dialog/registration/index.css" />
+        <option value="$PROJECT_DIR$/src/app.js" />
+        <option value="$PROJECT_DIR$/src/components/modal-dialog/registration/index.js" />
+        <option value="$PROJECT_DIR$/src/components/modal-dialog/arifmetic/index.js" />
+        <option value="$PROJECT_DIR$/src/components/modal-dialog/tasks/index.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <exe-path />
+    <config-path />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-65" />
+    <option name="y" value="9" />
+    <option name="width" value="1940" />
+    <option name="height" value="1015" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="final-game-refactoring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="final-game-refactoring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="final-game-refactoring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="final-game-refactoring" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="final-game-refactoring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="final-game-refactoring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="final-game-refactoring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="final-game-refactoring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="screens" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="final-game-refactoring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="final-game-refactoring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="screens" type="462c0819:PsiDirectoryNode" />
+              <item name="start" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.prettier" value="true" />
+    <property name="node.js.path.for.package.prettier" value="project" />
+    <property name="node.js.selected.package.prettier" value="" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\EPAM\GameCanvas\src\components\modal-dialog\reg" />
+      <recent name="D:\EPAM\GameCanvas\src\components\modal-dialog\registration" />
+      <recent name="E:\WebstormProjects\GameCanvas" />
+      <recent name="E:\WebstormProjects\GameCanvas\game\js" />
+      <recent name="D:\EPAM\GameCanvas\game\js" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="vocabulary.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="$PROJECT_DIR$/game/js/vocabulary.js" working-dir="$PROJECT_DIR$" />
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.vocabulary.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="28c4442a-9784-4716-af0f-503266ab1519" name="Default" comment="" />
+      <created>1527930234931</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1527930234931</updated>
+      <workItem from="1527930236290" duration="20589000" />
+      <workItem from="1528042280152" duration="9549000" />
+      <workItem from="1528135659351" duration="8369000" />
+      <workItem from="1528313266293" duration="2470000" />
+      <workItem from="1528400756546" duration="2975000" />
+      <workItem from="1528480385087" duration="9436000" />
+      <workItem from="1528528489416" duration="146000" />
+      <workItem from="1528542330418" duration="26996000" />
+      <workItem from="1528643150118" duration="15099000" />
+      <workItem from="1528736164175" duration="7698000" />
+      <workItem from="1529047848178" duration="25805000" />
+      <workItem from="1529140231711" duration="18300000" />
+      <workItem from="1529221164417" duration="38503000" />
+      <workItem from="1529516898992" duration="8000" />
+      <workItem from="1529910090709" duration="15046000" />
+      <workItem from="1529933212725" duration="1340000" />
+      <workItem from="1530453353209" duration="37000" />
+      <workItem from="1530456848642" duration="9564000" />
+      <workItem from="1530467472392" duration="4867000" />
+      <workItem from="1530474321368" duration="47000" />
+      <workItem from="1530540669654" duration="8000" />
+      <workItem from="1530543713270" duration="22000" />
+      <workItem from="1530557948151" duration="6909000" />
+      <workItem from="1530622311003" duration="3690000" />
+      <workItem from="1530697665663" duration="11317000" />
+      <workItem from="1530789413743" duration="7524000" />
+      <workItem from="1530863076679" duration="13866000" />
+      <workItem from="1530879299179" duration="3379000" />
+      <workItem from="1530946637269" duration="1353000" />
+      <workItem from="1530964368420" duration="757000" />
+      <workItem from="1530968394687" duration="76000" />
+      <workItem from="1531036902414" duration="6779000" />
+      <workItem from="1531044298867" duration="14338000" />
+      <workItem from="1531061386208" duration="198000" />
+      <workItem from="1531061827981" duration="169000" />
+      <workItem from="1531062358001" duration="6000" />
+      <workItem from="1531062497256" duration="17501000" />
+      <workItem from="1531155741166" duration="7362000" />
+      <workItem from="1531207030852" duration="21033000" />
+      <workItem from="1531254001294" duration="75000" />
+      <workItem from="1531255171624" duration="438000" />
+      <workItem from="1531336591307" duration="211000" />
+      <workItem from="1531337238550" duration="1118000" />
+      <workItem from="1531338405141" duration="15000" />
+      <workItem from="1538861753774" duration="600000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="336078000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10748156" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32830626" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50474185" side_tool="true" weight="0.23856209" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32881355" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49525815" visible="true" weight="0.23747277" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.32943678" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="15" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/game/index.html" />
+    <entry file="file://$PROJECT_DIR$/game/js/script.js" />
+    <entry file="file://D:/WebPage/index.html" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript.js" />
+    <entry file="file://$PROJECT_DIR$/game/js/user.js" />
+    <entry file="file://$PROJECT_DIR$/style.css" />
+    <entry file="file://$PROJECT_DIR$/game/js/vocabulary.js" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/DHTML.js" />
+    <entry file="file://$PROJECT_DIR$/game/js/app.js" />
+    <entry file="file://$PROJECT_DIR$/game/js/main.js" />
+    <entry file="file://$PROJECT_DIR$/dist/bundle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-534" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game/js/monster_name.js" />
+    <entry file="file://$PROJECT_DIR$/game/js/events.js" />
+    <entry file="file://$PROJECT_DIR$/game/js/task.html" />
+    <entry file="file://$PROJECT_DIR$/task2.html" />
+    <entry file="file://$PROJECT_DIR$/game/js/monster.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/webpack-dev-server/client/live.bundle.js" />
+    <entry file="file://$PROJECT_DIR$/game/windows/task2.html" />
+    <entry file="file://$PROJECT_DIR$/game/js/timer.js" />
+    <entry file="file://$PROJECT_DIR$/game/js/common.js" />
+    <entry file="file://$PROJECT_DIR$/game/windows/registration.html" />
+    <entry file="file://$PROJECT_DIR$/game/index.html" />
+    <entry file="file://$PROJECT_DIR$/game/styles/style.css" />
+    <entry file="file://$PROJECT_DIR$/game/js/script.js" />
+    <entry file="file://$PROJECT_DIR$/game/windows/modal_task.html" />
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/src/components/modal-dialog/reg/highscore.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/modal-dialog/reg/registration.css" />
+    <entry file="file://$PROJECT_DIR$/src/components/modal-dialog/reg/registration.html" />
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="4" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/modal-dialog/registration/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/modal-dialog/audio/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/modal-dialog/tasks/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/screens/home/images/monsters.png" />
+    <entry file="file://$PROJECT_DIR$/src/js/monster.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1581">
+          <caret line="93" column="18" selection-start-line="93" selection-start-column="18" selection-end-line="93" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/screens/start/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/modal-dialog/translate/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/modal-dialog/audio/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/modal-dialog/translate/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/modal-dialog/translate/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/modal-dialog/arifmetic/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/modal-dialog/audio/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="96" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/modal-dialog/tasks/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="7" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/modal-dialog/registration/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/modal-dialog/arifmetic/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/modal-dialog/arifmetic/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="57" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/modal-dialog/registration/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/modal-dialog/tasks/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" column="52" selection-start-line="20" selection-start-column="52" selection-end-line="20" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#28#73#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/screens/start/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
